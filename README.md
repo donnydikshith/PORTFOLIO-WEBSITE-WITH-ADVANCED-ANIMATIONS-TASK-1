@@ -52,6 +52,7 @@ The website was hosted locally using a live server to check functionality and la
 The completed portfolio website combines a clean design with advanced animations for an interactive user experience. This project demonstrates the use of modern web technologies, including HTML, CSS, and GSAP, to build a personal brand.  
 
 
-#OUTPUT
+**OUTPUT**
 
 ![Image](https://github.com/user-attachments/assets/3c1cc0fc-8d3d-49de-95a8-afcd987383fe)
+![Image](https://github.com/user-attachments/assets/974e1580-96eb-4015-ac51-9492c344dcce)
