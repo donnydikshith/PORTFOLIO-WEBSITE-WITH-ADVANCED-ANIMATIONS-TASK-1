@@ -11,12 +11,6 @@
  **BATCH DURATION**:m January 15th, 2025 to February 15th, 2025
  
  **MENTOR NAME**:Neela Santhosh Kumar 
- 
-# ENTER  DESCRIPTION OF TASK PERFORMED 
-
-Here’s a more detailed **500-word description** of the tasks performed:  
-
----
 
 **DESCRIPTION OF TASKS PERFORMED**  
 
